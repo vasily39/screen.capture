@@ -1,0 +1,8 @@
+obj
+bin
+packages
+.vs
+*.user
+*.suo
+App.Local.config
+
